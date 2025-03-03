@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 no test no test
 no test no test
+=======
+test test
+test test
+>>>>>>> feature
